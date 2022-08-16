@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aleksey Minabutdinov @lexmar07, a postdoctoral researcher in economics at ETH (Zurich). 
-- 👀 I have research interests in Environmental economics, Economic inequality and Growth theory, 
-Dynamical systems, Stochastic processes, Dynamic programming and Reinforcement learning.
+- 👀 I have research interests in Environmental economics, Growth theory and Inequality, Dynamical systems, Stochastic processes, Dynamic progr. & RL
 
 
 <!---
